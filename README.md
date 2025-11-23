@@ -1,4 +1,4 @@
-#ASRS system for a high bay warehouse - engineering degree project
+**ASRS system for a high bay warehouse - engineering degree project**
 
 This project presents a model of a warehouse asrs controlled by an Arduino microcontroller. Stepper motors are used to implement the movement axes, a limit switch serves as a reference sensor, and an RFID reader for simulated access to goods. Automatically activated mechanical components, manufactured using ABS 3D printing technology, enable activation of the drive and devices in a compact design. The system can operate in manual mode: https://youtu.be/Y6Em4RPXr60
 <img width="1001" height="1415" alt="image" src="https://github.com/user-attachments/assets/d4668fc8-0f1f-4557-bbeb-a7f2544934ae" />
